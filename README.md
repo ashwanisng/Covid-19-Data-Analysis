@@ -13,9 +13,9 @@ For a local installation, make sure you have
 
 ## Project Motivation
 
-A novel strain of coronavirus — SARS-CoV-2 — was first detected in December 2019 in Wuhan, a city in China’s Hubei province with a population of 11 million, after an outbreak of pneumonia without an obvious cause. 
-The virus has now spread to over 200 countries and territories across the globe and was characterized as a pandemic by the World Health Organization.
-India coronavirus cases crossed the one million or the 10 lakh-mark. Let's do the analysis of fights of India against Coronavirus.
+A novel strain of **coronavirus — SARS-CoV-2** — was first detected in December 2019 in **Wuhan**, a city in **China’s Hubei** province with a population of 11 million, after an outbreak of pneumonia without an obvious cause. 
+The virus has now spread to over 200 countries and territories across the globe and was characterized as a **pandemic** by the **World Health Organization.**
+India coronavirus cases crossed the **one million** or the **10 lakh-mark.** Let's do the analysis of **fights of India against Coronavirus.**
 
 Question that are from intrest are -
 
